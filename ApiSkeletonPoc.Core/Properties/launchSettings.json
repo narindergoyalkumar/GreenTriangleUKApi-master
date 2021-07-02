@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApiSkeletonPoc.Core": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
